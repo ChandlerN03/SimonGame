@@ -1,2 +1,2 @@
 # SimonGame
-I created a Simon game from a bootcamp im learning from
+I created a game that mimics the board game simon
